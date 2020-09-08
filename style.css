@@ -134,7 +134,7 @@ body {
 #searchresultsarea {
     margin-left: 150px;
     font-family: 'Arial';
-    width: 50%;
+    width: 700px;
 }
 
 #searchresultsnumber {
@@ -177,7 +177,7 @@ body {
 .subBox_searchresult {
     display: flex;
     flex-wrap: wrap;
-    width: 100%;
+    width: 600px;
     margin: -10px 20px;
     padding: 0px 20px;
 }
@@ -185,13 +185,13 @@ body {
 .subBox2_searchresult {
     display: flex;
     flex-wrap: wrap;
-    width: 100%;
+    width: 650px;
 }
 
 .Videos_box {
     border: 1px solid #ddd;
     border-radius: 10px;
-    width: 30%;
+    width: 200px;
     margin-right: 10px;
     overflow: hidden;
 }
@@ -215,7 +215,7 @@ body {
 }
 
 .sub_searchresult {
-    width: 40%;
+    width: 250px;
 }
 
 .sub_searchresult .p1 {
